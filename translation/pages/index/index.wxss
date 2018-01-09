@@ -1,0 +1,28 @@
+.page{
+  font-family: '微软雅黑';
+  font-size: 15px;
+}
+.error_text{
+  color: red
+}
+.btn_submit{
+  margin-top: 10px 
+}
+.result{
+  border:1px #f1f1f1 solid;
+  padding: 10px;
+  margin: 8px
+}
+.weui-input{
+  border:1px #f1f1f1 solid;
+  line-height: 50px;
+  text-align: center;
+  height: 40px
+}
+.tip_text{
+  height: 40px;
+  line-height: 40px
+}
+.radio{
+  line-height: 30px
+}

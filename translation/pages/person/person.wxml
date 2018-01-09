@@ -1,0 +1,12 @@
+<view class="person">
+  <text class='text_devo'>关于开发者</text>
+  <view style="width=100% height=200px">
+  <image src='../../images/QR_Code.jpg'  class='image'></image>
+  </view>
+  <text>\n\t意见反馈：\n\t</text>
+  <view class='feedback'>
+  <view>邮箱：m13592895234@163.com</view>
+  <view class='mail'>\n\t1013532395@qq.com</view>
+  <view class='qq'>\n\tQQ：1013532395</view>
+  </view>
+</view>
